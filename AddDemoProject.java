@@ -6,7 +6,7 @@ Public Class AddNumbers{
     }
 }
 
-public class AddDriver {
+class AddDriver {
 	public static void main(String arg[]) {
 	Scanner sc=new Scanner(System.in);
 	AddNumbers x=new AddNumbers();
